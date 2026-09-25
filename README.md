@@ -1,2 +1,2 @@
 # Tanzeel-Ahmed-Transportation
-Code I use to create legal documents, track KPIs, and do accounting for federal and state income taxes, as well as New York Sales Tax Withholding (which is not for a calendar year but March to March)
+Code I use to create legal documents, track KPIs, and do accounting for federal and state income taxes, as well as New York Sales Tax Withholding (which is not for a calendar year but March to March). This is proprietary code I created for my side business that I've been running since 2018 and has helped streamline accounting especially since I operated this as a single member LLC. 
